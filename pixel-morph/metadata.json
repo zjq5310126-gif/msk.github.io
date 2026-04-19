@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Morph",
+  "description": "Transform images into 3D voxel mosaics with a creative pixel-dissolve effect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
